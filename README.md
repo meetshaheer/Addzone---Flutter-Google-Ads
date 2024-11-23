@@ -1,1 +1,1 @@
-![Project Screenshot](assets\App.png)
+![Project Screenshot](assets/App.png)
